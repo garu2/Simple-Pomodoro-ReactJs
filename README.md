@@ -2,7 +2,7 @@
 ![QR Generator](public/pomodoroImg.png)
 
 ## 🚀 DEMO
-### [Deploy](https://)
+### [Deploy](https://simple-pomodoro-react-js.vercel.app/)
 
 ## 💻 Tutorial
 <a href='https://youtu.be/QQQQ' target='_blank'>
@@ -10,16 +10,19 @@
 </a>
 
 ## 📋 Features
-- Pomodoro
-- Break
+- counter pomodoros
+- Work time
+- Break time
 - Reset
+- Start
+- Pause
 
 ## 📦 Getting Started
 ```
-git clone https://github.com/garu2/Pomodoro-ReactJs.git
+git clone https://github.com/garu2/Simple-Pomodoro-ReactJs.git
 ```
 ```
-cd Pomodoro-ReactJs
+cd Simple-Pomodoro-ReactJs
 ```
 ```
 npm install
